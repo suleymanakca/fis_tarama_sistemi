@@ -1,0 +1,17 @@
+C:\Users\bursa\Desktop\kaizen_q3\kaizen_q3\bin\Debug\net6.0\kaizen_q3.exe
+C:\Users\bursa\Desktop\kaizen_q3\kaizen_q3\bin\Debug\net6.0\kaizen_q3.deps.json
+C:\Users\bursa\Desktop\kaizen_q3\kaizen_q3\bin\Debug\net6.0\kaizen_q3.runtimeconfig.json
+C:\Users\bursa\Desktop\kaizen_q3\kaizen_q3\bin\Debug\net6.0\kaizen_q3.dll
+C:\Users\bursa\Desktop\kaizen_q3\kaizen_q3\bin\Debug\net6.0\ref\kaizen_q3.dll
+C:\Users\bursa\Desktop\kaizen_q3\kaizen_q3\bin\Debug\net6.0\kaizen_q3.pdb
+C:\Users\bursa\Desktop\kaizen_q3\kaizen_q3\obj\Debug\net6.0\kaizen_q3.csproj.AssemblyReference.cache
+C:\Users\bursa\Desktop\kaizen_q3\kaizen_q3\obj\Debug\net6.0\kaizen_q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bursa\Desktop\kaizen_q3\kaizen_q3\obj\Debug\net6.0\kaizen_q3.AssemblyInfoInputs.cache
+C:\Users\bursa\Desktop\kaizen_q3\kaizen_q3\obj\Debug\net6.0\kaizen_q3.AssemblyInfo.cs
+C:\Users\bursa\Desktop\kaizen_q3\kaizen_q3\obj\Debug\net6.0\kaizen_q3.csproj.CoreCompileInputs.cache
+C:\Users\bursa\Desktop\kaizen_q3\kaizen_q3\obj\Debug\net6.0\kaizen_q3.dll
+C:\Users\bursa\Desktop\kaizen_q3\kaizen_q3\obj\Debug\net6.0\ref\kaizen_q3.dll
+C:\Users\bursa\Desktop\kaizen_q3\kaizen_q3\obj\Debug\net6.0\kaizen_q3.pdb
+C:\Users\bursa\Desktop\kaizen_q3\kaizen_q3\obj\Debug\net6.0\kaizen_q3.genruntimeconfig.cache
+C:\Users\bursa\Desktop\kaizen_q3\kaizen_q3\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\bursa\Desktop\kaizen_q3\kaizen_q3\obj\Debug\net6.0\kaizen_q3.csproj.CopyComplete

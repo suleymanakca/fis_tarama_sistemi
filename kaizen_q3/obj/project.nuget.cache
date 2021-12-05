@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3VknwG1wD7SCO40s1CgAVsDkyIqFRZzAU6wzC8WEieTjS5wb4jEUldtXm6UR82bfAKxLmrvewcPjRewJNhmtiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bursa\\Desktop\\kaizen_q3\\kaizen_q3\\kaizen_q3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bursa\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
