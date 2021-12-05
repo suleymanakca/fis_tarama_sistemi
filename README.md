@@ -1,7 +1,7 @@
 # FİŞ TARAMA SİSTEMİ
 Not: Proje C# dilinde Visual Studio 2022 kullanarak .NET 6.0 ile yapılmıştır.
 
-# AÇIKLAMA
+# AÇIKLAMA VE ÇÖZÜM
 
 Bir fiş tarama sistemi geliştirilecektir. OCR aşaması için SaaS bir sistem kullanılmaktadır.
 
